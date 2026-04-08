@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hey there, I'm Shudhanshu<br>A Python Full Stack Developer passionate about crafting premium digital experiences. I love experimenting with modern web technologies to create fast, scalable, and visually immersive applications from the ground up.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mr_prajapati__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shudhanshu-prajapati1902) 
@@ -9,13 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shudhanshu-03&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shudhanshu-03&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shudhanshu-03&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shudhanshu-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=shudhanshu-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
